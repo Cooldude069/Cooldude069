@@ -32,9 +32,9 @@
 
 ---
 
-<img alt="Sam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cooldude069&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Sam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cooldude069&show_icons=true&hide_border=true&theme=dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CooLDude069)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CooLDude069" />
 
 [twitter]: https://twitter.com/Clever_Idiot_17
 [instagram]: https://instagram.com/codeSTACKr
