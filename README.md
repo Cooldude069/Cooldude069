@@ -5,6 +5,7 @@
 ## I'm a Student at BITS Pilani!!
 
 - 🌱 I’m currently learning everything 🤣
+- 🧑🏻‍💻 Check out what I'm doing on [Fiverr](https://www.fiverr.com/share/xAWGda)! 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Get better at Flutter
 
